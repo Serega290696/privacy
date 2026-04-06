@@ -29,7 +29,7 @@ Our application does not knowingly collect any information from children, as no 
 
 ## 7. Contact
 If you have any questions regarding this Privacy Policy, please contact us at:
-**beltser.sergey@gmail.com**
+**horizons.app.dev@gmail.com**
 
 ---
 *© 2026 Beltser Serhii. All rights reserved.*
